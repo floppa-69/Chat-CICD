@@ -2,9 +2,8 @@
 
 ## Task Overview
 For this project, our team selected a **sample chat application** as the base.  
-We then implemented a **CI/CD pipeline** to automate sample testing, building, and deployment.  
+We then implemented a **CI/CD pipeline** to automate sample testing, building, and deployment, each one of us implemented their own pipeline then we selected **these two versions**:
 
-The pipeline supports **two deployment versions**:
 
 1. **Direct deployment to GitHub Pages**  
    - Automatically publishes the frontend to GitHub Pages after successful CI checks.
@@ -28,5 +27,5 @@ The pipeline supports **two deployment versions**:
 - Added a CI/CD pipeline with:
   - GitHub Pages deployment  
   - Docker image deployment  
-- Collaboration and task division handled among the listed team members
+- Collaboration and task division handled among the listed team members 
 
