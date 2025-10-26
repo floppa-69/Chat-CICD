@@ -15,7 +15,12 @@ The pipeline runs automatically on **push or pull request** to the `main` branch
 
 1. **Checkout code**
 2. **Set up Node.js**
-3. **Install dependencies**
-4. **Run tests**
-5. **Build Docker image**
+3. **Install dependencies** : 
+    npm install
+4. **Run tests** :
+    npm test
+5. **Build Docker image** :
+    cd scripts
+    ./build.sh
+    ./deploy.sh
 
