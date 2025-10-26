@@ -7,5 +7,5 @@ L’objectif est d’automatiser le build, les tests et le déploiement à l’a
 - **Frontend** : Interface utilisateur (React)
 - **Backend** : API (Node.js)
 - **CI/CD** : GitHub Actions
-- **Infra** : Docker & Terraform
+- **Infra** : Docker 
 
