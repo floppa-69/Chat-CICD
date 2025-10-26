@@ -1,11 +1,10 @@
-# Description du projet
+# Project Description
 
-Le projet **Chat-CICD** est une application de chat déployée automatiquement via un pipeline CI/CD.  
-L’objectif est d’automatiser le build, les tests et le déploiement à l’aide de Docker, Terraform et GitHub Actions.
+The **Chat-CICD** project is a chat application automatically deployed via a CI/CD pipeline.  
+The goal is to automate the build, testing, and deployment using Docker and GitHub Actions.
 
 ## Architecture
-- **Frontend** : Interface utilisateur (React)
-- **Backend** : API (Node.js)
-- **CI/CD** : GitHub Actions
-- **Infra** : Docker 
-
+- **Frontend**: User interface (React)  
+- **Backend**: API (Node.js)  
+- **CI/CD**: GitHub Actions  
+- **Infrastructure**: Docker
